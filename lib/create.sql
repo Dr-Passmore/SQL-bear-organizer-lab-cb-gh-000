@@ -6,4 +6,4 @@ CREATE TABLE bears(
         colour text
         temperament text
         alive boolean
-)
+      );
